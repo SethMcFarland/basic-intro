@@ -1,2 +1,5 @@
 # Introduction
-This is a *very basic repo* with just an introduction in [markdown format](https://help.github.com/articles/markdown-basics/). **Replace this header and text in your own repo.**
+Seth McFarland
+
+My name is Seth McFarland, I'm technically a senior this year but I won't be graduating until next year. I'm a Chico native so if at all possible I'm
+hoping to get a software engineering job here in town. 
